@@ -1,6 +1,6 @@
 # Story-Generator-python-file-
 
-Task: To complete this assignment, you should create a Python script that:
+Python Program that:
 
 Asks a user for their first name and store the input in a variable.
 Asks a user for their last name and store the input in a variable.
